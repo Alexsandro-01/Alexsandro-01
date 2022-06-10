@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Alexsandro Pinheiro 👋
 
-- 🌱 Atualment estou estudando Desenvolvimento Web Front-end.
+- 🌱 Atualment estou estudando Desenvolvimento Web Back-end.
 
 ##
 
