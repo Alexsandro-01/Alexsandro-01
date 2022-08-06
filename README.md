@@ -34,7 +34,9 @@ Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mu
           
   <img  align="center" alt="Alexsandro-sequelize" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
           
-  <img align="center" alt="Alexsandro-mocha" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img align="center" alt="Alexsandro-mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+                                                            
+  <img align="center" alt="Alexsandro-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           
   <!-- <img align="center" alt="Alexsandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 
