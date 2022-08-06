@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Alexsandro Pinheiro 👋
 
-- 🌱 Atualmente estou estudando Desenvolvimento Web Back-end.
+Nascido e criado no interior, meu primeiro contato com internet e computadores foi no ensino médio, o interesse foi instalado na hora. Mas por morar no interior achei que trabalhar com qualquer coisa relacionada a computadores não seria possível.
+
+Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mundo de possibilidades, assim como que a geografia não é mais um obstáculo. Comecei a estudar programação com cursos online e acabei conhecendo a Trybe, uma escola que ensina a programar, a aprender e a trabalhar. Comecei o curso de Desenvolvimento Web em novembro de 2021 Na Trybe e já passei pelos módulos de Fundamentos do Desenvolvimento Web, Front-end e agora estou estudando Back-end.
 
 ##
 
