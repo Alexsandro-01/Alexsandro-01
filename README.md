@@ -46,7 +46,7 @@ Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mu
 <div> 
   <a href="https://www.instagram.com/1_alexsandro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:alerrandrofire@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/alexsandro-pinheiro-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alexsandro-pinheiro-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <!-- ![Snake animation](https://github.com/Alexsandro-01i/ALexsandro-01/blob/output/github-contribution-grid-snake.svg) -->
  
