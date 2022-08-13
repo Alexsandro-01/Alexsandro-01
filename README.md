@@ -24,7 +24,7 @@ Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mu
   
 ## Principais tecnologias que tenho experiência
 
-<div style="display: inline_block>  
+<div style="display: inline_block></ br>
 
  
   
