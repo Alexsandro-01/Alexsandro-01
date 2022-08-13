@@ -27,8 +27,9 @@ Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mu
 <div style="display: inline_block></ br>
 
  
-  
+  <div>
   <img align="center" alt="Alexsandro-nodejs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> `Nodejs`
+  </div>
   
   <img align="center" alt="Alexsandro-Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> `Javascript`
   
