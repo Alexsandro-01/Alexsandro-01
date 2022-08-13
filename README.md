@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Alexsandro Pinheiro 👋
 
-Nascido e criado no interior, meu primeiro contato com internet e computadores foi no ensino médio, o interesse foi instalado na hora. Mas por morar no interior achei que trabalhar com qualquer coisa relacionada a tecnologia não seria possível.
+Meu primeiro contato com internet e computador foi no ensino médio, o olho brilhou. Mas por morar no interior, achei que trabalhar com qualquer coisa relacionada a tecnologia não seria possível.
 
-Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mundo de possibilidades, assim como que a geografia não é mais um obstáculo. Comecei a estudar programação com cursos online e acabei conhecendo a Trybe, uma escola que ensina a programar, a aprender e a trabalhar. Comecei o curso de Desenvolvimento Web em novembro de 2021 Na Trybe e já passei pelos módulos de Fundamentos do Desenvolvimento Web, Front-end e agora estou estudando Back-end.
+Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mundo de possibilidades, assim como que a geografia não era mais um obstáculo. Comecei a estudar programação com cursos online e acabei conhecendo a Trybe, uma escola que ensina a programar, a aprender e a trabalhar. Comecei o curso de Desenvolvimento Web em novembro de 2021 Na Trybe e já passei pelos módulos de Fundamentos do Desenvolvimento Web, Front-end e agora estou estudando Back-end.
 
 ##
 
@@ -27,15 +27,22 @@ Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mu
   <img align="center" alt="Alexsandro-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Alexsandro-nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  
+  <div color="#ffffff">
+  <img align="center" alt="Alexsandro-nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  </div>
+          
          
-  <img  align="center" alt="Alexsandro-mysql" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img alt="Alexsandro-mysql" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
           
   <img  align="center" alt="Alexsandro-docker" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
           
   <img  align="center" alt="Alexsandro-sequelize" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
           
   <img align="center" alt="Alexsandro-mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-                                                            
+            
+  <img align="center" alt="Alexsandro-jeste" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />       
+                
   <img align="center" alt="Alexsandro-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           
   <!-- <img align="center" alt="Alexsandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
