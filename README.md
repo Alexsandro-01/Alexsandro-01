@@ -1,8 +1,16 @@
 ## Olá! Eu sou o Alexsandro Pinheiro 👋
 
+
+
 Meu primeiro contato com internet e computador foi no ensino médio, o olho brilhou. Mas por morar no interior, achei que trabalhar com qualquer coisa relacionada a tecnologia não seria possível.
 
 Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mundo de possibilidades, assim como que a geografia não era mais um obstáculo. Comecei a estudar programação com cursos online e acabei conhecendo a Trybe, uma escola que ensina a programar, a aprender e a trabalhar. Comecei o curso de Desenvolvimento Web em novembro de 2021 Na Trybe e já passei pelos módulos de Fundamentos do Desenvolvimento Web, Front-end e agora estou estudando Back-end.
+
+- 🔭 Atualmente estou procurando Trabalho na area de desenvolvimento web, preincipalmente Backend.
+- 🌱 Nesse momento estou aprendendo Programação Orientada a Objetos
+- 💬 Pergunte-me sobre Qualquer tecnologia listada nesse Readme, Call of Duty, Game of Thrones, Animes ou anything!
+- 📫 Como entrar em contato comigo: alexsandrofire@hotmail.com ou alerrandrofire@gmail.com
+- ⚡ Curiosidade: Prefiro frio do que calor, quero conhecer o restante do Brasil e percorrer a Europa de Trem.
 
 ##
 
@@ -16,34 +24,35 @@ Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mu
 
 <div style="display: inline_block><br>
   
-  <img align="center" alt="Alexsandro-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alexsandro-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> `Javascript`
   
-  <img align="center" alt="Alexsandro-PhP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Alexsandro-nodejs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> `Nodejs`
   
-  <img align="center" alt="Alexsandro-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Alexsandro-Typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> `Typescript`
   
-  <img align="center" alt="Alexsandro-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Alexsandro-express" height="30" width="30" src="https://user-images.githubusercontent.com/73038442/184507946-6c4763ab-5f1e-4314-8f05-3dd1f1f802d9.png" /> `Express`
   
-  <img align="center" alt="Alexsandro-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Alexsandro-mysql" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> `Mysql`
+
+<img  align="center" alt="Alexsandro-sequelize" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" /> `Sequelize`
+
+<img  align="center" alt="Alexsandro-docker" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> `Docker`
   
-  <img align="center" alt="Alexsandro-nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Alexsandro-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> `React`
   
-  <div color="#ffffff">
-  <img align="center" alt="Alexsandro-nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  </div>
-          
-         
-  <img alt="Alexsandro-mysql" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-          
-  <img  align="center" alt="Alexsandro-docker" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-          
-  <img  align="center" alt="Alexsandro-sequelize" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
-          
-  <img align="center" alt="Alexsandro-mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img align="center" alt="Alexsandro-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> `HTML`
+  
+  <img align="center" alt="Alexsandro-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> `CSS`
+  
+  <img align="center" alt="Alexsandro-mocha" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /> `Mocha`
             
-  <img align="center" alt="Alexsandro-jeste" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />       
-                
-  <img align="center" alt="Alexsandro-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Alexsandro-jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> `Jest`
+
+  <img align="center" alt="Alexsandro-jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> `Git`
+
+<img align="center" alt="Alexsandro-jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> `Bash`
+          
+  <img align="center" alt="Alexsandro-PhP" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> `PHP`
           
   <!-- <img align="center" alt="Alexsandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 
@@ -54,6 +63,8 @@ Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mu
   <a href="https://www.instagram.com/1_alexsandro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:alerrandrofire@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexsandro-pinheiro-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://bityli.com/PlUOnv" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  
  
   <!-- ![Snake animation](https://github.com/Alexsandro-01i/ALexsandro-01/blob/output/github-contribution-grid-snake.svg) -->
  
