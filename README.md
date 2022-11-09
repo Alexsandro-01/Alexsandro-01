@@ -4,7 +4,7 @@
 
 Meu primeiro contato com internet e computador foi no ensino médio, o olho brilhou. Mas por morar no interior, achei que trabalhar com qualquer coisa relacionada a tecnologia não seria possível.
 
-Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mundo de possibilidades, assim como que a geografia não era mais um obstáculo. Comecei a estudar programação com cursos online e acabei conhecendo a Trybe, uma escola que ensina a programar, a aprender e a trabalhar. Comecei o curso de Desenvolvimento Web em novembro de 2021 Na Trybe e já passei pelos módulos de Fundamentos do Desenvolvimento Web, Front-endm Back-end e agora estou estudando introdução a ciência da computação com Python.
+Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mundo de possibilidades, assim como que a geografia não era mais um obstáculo. Comecei a estudar programação com cursos online e acabei conhecendo a Trybe, uma escola que ensina a programar, a aprender e a trabalhar. Comecei o curso de Desenvolvimento Web em novembro de 2021 Na Trybe e já passei pelos módulos de Fundamentos do Desenvolvimento Web, Front-end, Back-end e agora estou estudando introdução a ciência da computação com Python.
 
 - 🔭 Atualmente estou procurando Trabalho na area de desenvolvimento web.
 - 🌱 Nesse momento estou aprendendo sobre Raspagem de dados com Python.
