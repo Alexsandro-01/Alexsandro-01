@@ -7,7 +7,7 @@ Meu primeiro contato com internet e computador foi no ensino médio, o olho bril
 Alguns anos passaram, o acesso a internet se tornou mais fácil e descobri um mundo de possibilidades, assim como que a geografia não era mais um obstáculo. Comecei a estudar programação com cursos online e acabei conhecendo a Trybe, uma escola que ensina a programar, a aprender e a trabalhar. Terminei o curso de Desenvolvimento Web  na Trybe em dezembro de 2022.
 
 - 🔭 Atualmente estou procurando Trabalho na area de desenvolvimento web.
-- 🌱 Nesse momento estou aprendendo sobre Java.
+- 🌱 Nesse momento estou aprendendo sobre C#.
 - 💬 Gosto de música eletrônica, Animes, como a mente funciona e boas histórias. Quebra-cabeças me prendem a atenção!
 - 📫 Como entrar em contato comigo: alexsandrofire@hotmail.com ou alerrandrofire@gmail.com
 - ⚡ Curiosidade: Prefiro frio do que calor e quero conhecer o restante do Brasil.
